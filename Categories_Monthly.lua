@@ -39,7 +39,7 @@ function WriteHeader (account, startDate, endDate, transactionCount)
     
     writeLine("Category sums from " .. _start .. " to " .. _end .. " (" .. transactionCount .. " transactions).")
     writeLine(os.date("File exported at %c."))
-    assert(io.write("Kategorie; "))
+    assert(io.write("Category; "))
 
     for i, v in ipairs(months) do
 	    assert(io.write(v, "; "))
