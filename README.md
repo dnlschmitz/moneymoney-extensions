@@ -14,4 +14,4 @@ This exports all transactions summed up by categories monthly. Resulting in a ta
 
 
 
-needs some tidy-up, but it works.
+needs some tidy-up, but does the job nicely.
