@@ -1,8 +1,8 @@
-# moneymoney-extensions
+# MoneyMoney Export Categories Monthly
 
 An export extension for moneymoney
 
-This exports all transactions summed up by categories monthly. Resulting in a table like this:
+This exports all transactions summed up by categories monthly into a csv file. Resulting in a table like this:
 
 
 | category |  2019 01  |     2019 02    |     .. |
